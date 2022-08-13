@@ -1,0 +1,9 @@
+{
+  "name": "cosmos",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "examples:reality": "ts-node ./examples/reality.ts",
+    "tests": "ts-node tests.ts"
+  }
+}
