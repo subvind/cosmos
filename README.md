@@ -1,5 +1,10 @@
 cosmos
 ========
+design pattern source code:
+- builder creational: https://github.com/trabur/full-stack
+- prototype & singleton creational: https://github.com/trabur/cosmos
+- factory method creational: https://github.com/trabur/member-markings
+- abstract factory creational: https://github.com/trabur/family-markings
 
 tests:
 ```bash
